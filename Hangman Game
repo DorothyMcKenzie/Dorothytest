@@ -31,4 +31,4 @@ def hangman():
                 print('Game over. You lost!')
                 print('The word was', word)
 
-hangman()
+hangman() #the end
